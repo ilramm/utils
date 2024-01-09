@@ -1,3 +1,3 @@
-module utils.go
+module github.com/ilramm/utils
 
 go 1.18
